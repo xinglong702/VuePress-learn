@@ -1,0 +1,16 @@
+{
+  "name": "VuePress-learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xinglong702/VuePress-learn.git",
+  "author": "xinglong702 <wangxlong7@mail2.sysu.edu.cn>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+
+}
